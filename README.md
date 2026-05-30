@@ -31,7 +31,10 @@
 
 ## Screenshots
 
-> Add your own screenshots here after install
+<img width="604" height="909" alt="2026-05-30_17-02" src="https://github.com/user-attachments/assets/0941becd-0dbd-4780-a95a-24cbec26cbd3" />
+<img width="626" height="885" alt="2026-05-30_17-03" src="https://github.com/user-attachments/assets/32e31118-c990-4af8-844c-540d678e45e4" />
+<img width="602" height="905" alt="2026-05-30_17-05" src="https://github.com/user-attachments/assets/5a4651aa-61b0-43fd-b757-6b46aacc06c7" />
+
 
 ---
 
