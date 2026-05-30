@@ -19,7 +19,7 @@ A KDE Plasma system monitor widget with a terminal/HUD aesthetic.
 
 ## Install
 ```bash
-git clone https://github.com/yourusername/reactor-hud
+git clone https://github.com/prudhvibungatavula/reactor-hud
 cd reactor-hud
 bash install.sh
 ```
