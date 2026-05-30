@@ -1,0 +1,22 @@
+{
+    "KPackageStructure": "Plasma/Applet",
+    "KPlugin": {
+        "Id": "com.socrates.reactorhud",
+        "Name": "Reactor HUD",
+        "Description": "Dynamic System Monitor",
+        "Icon": "contents/reactor.png",
+        "Authors": [
+            {
+                "Name": "Prudhvi Akash Bungatavula"
+            }
+        ],
+        "Version": "1.0.1",
+        "License": "GPL-3.0-or-later",
+        "Category": "System Information",
+        "Website": "https://github.com/socrates/reactor-hud",
+        "EnabledByDefault": true
+    },
+    "X-Plasma-API-Minimum-Version": "6.0",
+    "X-Plasma-API": "declarativeappletscript",
+    "X-Plasma-MainScript": "ui/main.qml"
+}
