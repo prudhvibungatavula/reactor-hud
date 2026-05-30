@@ -9,6 +9,8 @@
 
 ![preview](preview.png)
 
+<img width="480" height="744" alt="preview" src="https://github.com/user-attachments/assets/fddbbdfd-314b-4a8d-97f8-60ccb95569b2" />
+
 ---
 
 ## Features
