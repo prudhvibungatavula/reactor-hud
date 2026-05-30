@@ -1,4 +1,4 @@
-# ⚛️ Reactor HUD
+# Reactor HUD
 
 > A KDE Plasma 6 system monitor widget with a terminal / sci-fi HUD aesthetic.  
 > Built for daily use. Looks like it belongs in a spaceship.
